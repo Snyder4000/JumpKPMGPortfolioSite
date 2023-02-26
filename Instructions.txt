@@ -12,5 +12,5 @@ Some ideas to include more advanced Front End features on your site include:
 It is a good idea to start with planning and design.  Please this link to check out free Wire Framing tools which help plan your website.
 Deliverables:
 - please push your project to your GitHub repository.  Email this link to jumpspartans@cognixia.com by the start of class on Monday.
-- Email Subject line should read - “JUMP KPMG Portfolio Project (Your Name)”
+- Email Subject line should read - “JUMP KPMG Portfolio Project (Mark Snyder)” https://github.com/Snyder4000/JumpKPMGPortfolioSite
 Please communicate all questions or issues to your instructor.  Happy coding!! :) 
